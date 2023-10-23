@@ -1,0 +1,15 @@
+<sections>
+	<!--安裝細項-->
+	<!--名稱:name ; 類型Type=*Folder/Excel/config/Document/WORD ; 目的地路徑:Destpath ; 來源路徑:sourpath ; 搬移:throw=*false/true  *=Default-->
+	<INSTALL_DETAIL name="安裝細項">
+		<object name="程式安裝" Destpath="C:\Temp\file" Type="Folder">
+			<Item name="Debug" sourpath="程式安裝\" Type="Folder" throw="true" RegeditResult="abc.tlb" RegeCode="Other.bat" UnRegeCode="UNREG.bat"/>
+		</object> 
+		<object name="資料替換" Destpath="C:\Temp" Type="Folder">
+			<Item name="abc.config" sourpath="資料替換\" Type="config" throw="true"/>
+			<Item name="file" Destpath="C:\Temp" sourpath="資料替換\" Type="Folder" throw="true">
+				<Item name="code" Destpath="C:\Temp\file" sourpath="資料替換\file\" Type="Folder" throw="true"/>
+			</Item>
+		</object> 
+	</INSTALL_DETAIL>
+</sections>

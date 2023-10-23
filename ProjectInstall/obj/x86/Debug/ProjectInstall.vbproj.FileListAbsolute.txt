@@ -1,0 +1,62 @@
+C:\Users\Administrator\Desktop\HengTongCode\HengTongCSS\ProjectInstall\bin\Debug\ProjectInstall.exe
+C:\Users\Administrator\Desktop\HengTongCode\HengTongCSS\ProjectInstall\bin\Debug\ProjectInstall.pdb
+C:\Users\Administrator\Desktop\HengTongCode\HengTongCSS\ProjectInstall\bin\Debug\ProjectInstall.xml
+C:\Users\Administrator\Desktop\HengTongCode\HengTongCSS\ProjectInstall\bin\Debug\ProjectErrorMessage.exe
+C:\Users\Administrator\Desktop\HengTongCode\HengTongCSS\ProjectInstall\bin\Debug\ProjectErrorMessage.pdb
+C:\Users\Administrator\Desktop\HengTongCode\HengTongCSS\ProjectInstall\bin\Debug\ProjectErrorMessage.xml
+C:\Users\Administrator\Desktop\HengTongCode\HengTongCSS\ProjectInstall\obj\x86\Debug\ProjectInstall.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HengTongCode\HengTongCSS\ProjectInstall\obj\x86\Debug\ProjectInstall.frmInstall.resources
+C:\Users\Administrator\Desktop\HengTongCode\HengTongCSS\ProjectInstall\obj\x86\Debug\ProjectInstall.Resources.resources
+C:\Users\Administrator\Desktop\HengTongCode\HengTongCSS\ProjectInstall\obj\x86\Debug\ProjectInstall.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\HengTongCode\HengTongCSS\ProjectInstall\obj\x86\Debug\ProjectInstall.exe
+C:\Users\Administrator\Desktop\HengTongCode\HengTongCSS\ProjectInstall\obj\x86\Debug\ProjectInstall.xml
+C:\Users\Administrator\Desktop\HengTongCode\HengTongCSS\ProjectInstall\obj\x86\Debug\ProjectInstall.pdb
+C:\Users\Administrator\Desktop\HengTongCode\HengTongCSS\ProjectInstall\bin\Debug\ProjectInstall.exe.config
+\\CP-98\VMTransFile\shini Data\shini\ProjectInstall\obj\x86\Debug\ProjectInstall.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\shini Data\shini\ProjectInstall\bin\Debug\ProjectInstall.exe.config
+C:\Users\Administrator\Desktop\shini Data\shini\ProjectInstall\bin\Debug\ProjectInstall.exe
+C:\Users\Administrator\Desktop\shini Data\shini\ProjectInstall\bin\Debug\ProjectInstall.pdb
+C:\Users\Administrator\Desktop\shini Data\shini\ProjectInstall\bin\Debug\ProjectInstall.xml
+C:\Users\Administrator\Desktop\shini Data\shini\ProjectInstall\bin\Debug\ProjectErrorMessage.exe
+C:\Users\Administrator\Desktop\shini Data\shini\ProjectInstall\bin\Debug\ProjectErrorMessage.pdb
+C:\Users\Administrator\Desktop\shini Data\shini\ProjectInstall\bin\Debug\ProjectErrorMessage.xml
+C:\Users\Administrator\Desktop\shini Data\shini\ProjectInstall\obj\x86\Debug\ProjectInstall.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\shini Data\shini\ProjectInstall\obj\x86\Debug\ProjectInstall.frmInstall.resources
+C:\Users\Administrator\Desktop\shini Data\shini\ProjectInstall\obj\x86\Debug\ProjectInstall.Resources.resources
+C:\Users\Administrator\Desktop\shini Data\shini\ProjectInstall\obj\x86\Debug\ProjectInstall.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\shini Data\shini\ProjectInstall\obj\x86\Debug\ProjectInstall.exe
+C:\Users\Administrator\Desktop\shini Data\shini\ProjectInstall\obj\x86\Debug\ProjectInstall.xml
+C:\Users\Administrator\Desktop\shini Data\shini\ProjectInstall\obj\x86\Debug\ProjectInstall.pdb
+C:\Users\Administrator\Desktop\shini Data\shini_New\ProjectInstall\bin\Debug\ProjectInstall.exe.config
+C:\Users\Administrator\Desktop\shini Data\shini_New\ProjectInstall\bin\Debug\ProjectInstall.exe
+C:\Users\Administrator\Desktop\shini Data\shini_New\ProjectInstall\bin\Debug\ProjectInstall.pdb
+C:\Users\Administrator\Desktop\shini Data\shini_New\ProjectInstall\bin\Debug\ProjectInstall.xml
+C:\Users\Administrator\Desktop\shini Data\shini_New\ProjectInstall\bin\Debug\ProjectErrorMessage.exe
+C:\Users\Administrator\Desktop\shini Data\shini_New\ProjectInstall\bin\Debug\ProjectErrorMessage.pdb
+C:\Users\Administrator\Desktop\shini Data\shini_New\ProjectInstall\bin\Debug\ProjectErrorMessage.xml
+C:\Users\Administrator\Desktop\shini Data\shini_New\ProjectInstall\obj\x86\Debug\ProjectInstall.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\shini Data\shini_New\ProjectInstall\obj\x86\Debug\ProjectInstall.frmInstall.resources
+C:\Users\Administrator\Desktop\shini Data\shini_New\ProjectInstall\obj\x86\Debug\ProjectInstall.Resources.resources
+C:\Users\Administrator\Desktop\shini Data\shini_New\ProjectInstall\obj\x86\Debug\ProjectInstall.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\shini Data\shini_New\ProjectInstall\obj\x86\Debug\ProjectInstall.exe
+C:\Users\Administrator\Desktop\shini Data\shini_New\ProjectInstall\obj\x86\Debug\ProjectInstall.xml
+C:\Users\Administrator\Desktop\shini Data\shini_New\ProjectInstall\obj\x86\Debug\ProjectInstall.pdb
+C:\Users\Administrator\Desktop\參考程式碼\ProjectInstall\bin\Debug\ProjectInstall.exe.config
+C:\Users\Administrator\Desktop\參考程式碼\ProjectInstall\obj\x86\Debug\ProjectInstall.exe
+C:\Users\Administrator\Desktop\參考程式碼\ProjectInstall\obj\x86\Debug\ProjectInstall.xml
+C:\Users\Administrator\Desktop\參考程式碼\ProjectInstall\obj\x86\Debug\ProjectInstall.pdb
+C:\Users\Albireo\Desktop\ProjectInstall\bin\Debug\ProjectInstall.exe.config
+C:\Users\Albireo\Desktop\ProjectInstall\bin\Debug\ProjectInstall.exe
+C:\Users\Albireo\Desktop\ProjectInstall\bin\Debug\ProjectInstall.pdb
+C:\Users\Albireo\Desktop\ProjectInstall\bin\Debug\ProjectInstall.xml
+C:\Users\Albireo\Desktop\ProjectInstall\bin\Debug\ProjectErrorMessage.pdb
+C:\Users\Albireo\Desktop\ProjectInstall\bin\Debug\ProjectErrorMessage.xml
+C:\Users\Albireo\Desktop\ProjectInstall\obj\x86\Debug\ProjectInstall.vbproj.AssemblyReference.cache
+C:\Users\Albireo\Desktop\ProjectInstall\obj\x86\Debug\ProjectInstall.frmInstall.resources
+C:\Users\Albireo\Desktop\ProjectInstall\obj\x86\Debug\ProjectInstall.Resources.resources
+C:\Users\Albireo\Desktop\ProjectInstall\obj\x86\Debug\ProjectInstall.vbproj.GenerateResource.cache
+C:\Users\Albireo\Desktop\ProjectInstall\obj\x86\Debug\ProjectInstall.vbproj.CoreCompileInputs.cache
+C:\Users\Albireo\Desktop\ProjectInstall\obj\x86\Debug\ProjectInstall.vbproj.CopyComplete
+C:\Users\Albireo\Desktop\ProjectInstall\obj\x86\Debug\ProjectInstall.exe
+C:\Users\Albireo\Desktop\ProjectInstall\obj\x86\Debug\ProjectInstall.xml
+C:\Users\Albireo\Desktop\ProjectInstall\obj\x86\Debug\ProjectInstall.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "ProjectInstall", "ProjectInstall.exe", "{CBAD5154-0600-4A6A-B409-B6FD0968254D}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\Administrator\Desktop\HengTongCode\HengTongCSS\ProjectInstall\bin\Debug\ProjectInstall.exe
+		RemoteMachine = HTAPDM
+		StartingDirectory = C:\Users\Administrator\Desktop\HengTongCode\HengTongCSS\ProjectInstall\bin\Debug
+		Environment = 預設
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBAD5154-0600-4A6A-B409-B6FD0968254D}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
