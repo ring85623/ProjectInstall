@@ -10,8 +10,6 @@
 
 VB.net
 
-cmd
-
 # 開發環境
 
 visual studio 2010
