@@ -16,4 +16,4 @@ visual studio 2010
 
 # 圖片
 
-![image]([https://imgur.com/lmSciWS](https://i.imgur.com/lmSciWS.jpg)https://i.imgur.com/lmSciWS.jpg)
+![Imgur](https://i.imgur.com/lmSciWS.jpg)
